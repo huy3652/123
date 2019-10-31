@@ -6,7 +6,7 @@
         <title></title>
         <!--embeded CSS-->
         <style>
-            h1 {color: red;}
+            h1 {color: green;}
         </style>
         <!--link-->
         <link rel="stylesheet" href="link.css">
@@ -17,8 +17,8 @@
     </head>
     <!--Inline CSS-->
     <body style="background: lightblue">
-        <h1>CSS練習</h1>
-        <h2>CSS練習</h2>
-        <h3>CSS練習</h3>
+        <h1>CSS作業</h1>
+        <h2>CSS作業</h2>
+        <h3>CSS作業</h3>
     </body>
 </html>
