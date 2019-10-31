@@ -5,12 +5,12 @@
         <meta charset="utf-8" />
         <title></title>
         <style>
-            h2 {color: green;}
+            h2 {color: yellow;}
         </style>
     </head>
     <body>
-        <h1 style="color: red">這是甚麼顏色</h1>
+        <h1 style="color: green">這是甚麼顏色</h1>
         <h2>這是甚麼顏色II</h2>
-        <h3> <font color=yellow>tradition fashion</font></h3>
+        <h3> <font color=red>tradition fashion</font></h3>
     </body>
 </html>
